@@ -1,0 +1,112 @@
+* {
+    scroll-behavior: smooth;
+}
+
+
+body{
+	 
+      text-align:center;
+	  font-family: Arial, Helvetica, sans-serif;
+	   background-color:#33FFCC;
+       margin-top:5%;
+}
+
+@media only screen (max-width: 1080px){
+    .p1, .p2,{
+        
+    }
+  
+}
+
+@media only screen (max-width: 768px){
+    .img1, .img2{
+        
+    }
+}
+
+
+
+header{
+
+    margin-top:35%;
+}
+
+.p1 {
+    
+   text-align: left; 
+   margin-top: 3%;
+   margin-left: 45%;
+
+
+}
+
+.p2{
+     
+    
+    text-align:right; 
+   margin-top: 35px;
+   padding-left: ;
+   margin-left: 615px;
+    position:absolute;
+     top: 40px;
+     margin-top:8%;
+
+
+}
+
+h1{
+    
+    text-align: ;
+}
+
+
+.img1, .img2{
+   
+   max-width: 150px;   
+}
+
+.img1{
+    
+    margin-bottom:;
+    margin-left: 26%;
+    margin-right: 25px;
+    margin-top:-1%;
+    -webkit-filter: drop-shadow(5px 5px 5px #222);
+    filter: drop-shadow(5px 5px 5px #222);
+}
+/*@media only screen (max-width: 1028px){*/
+.img2{
+    
+    position:absolute;
+     top: 40px;
+    margin-top: 12% ;
+    margin-left:-12%;
+    -webkit-filter: drop-shadow(5px 5px 5px #222);
+  filter: drop-shadow(5px 5px 5px #222);
+   
+   }
+
+
+.icons{
+    
+   margin-top: 9%;
+   padding: 5% 0;
+   background:#FF0033 ;
+   color: #ffffff;
+
+}
+
+
+.icon1, .icon2, .icon3{
+   
+    color: #fff;
+}
+
+.icon1:hover, .icon2:hover, .icon3:hover{
+     color: #000;
+}
+
+.btn{
+
+    margin-top:15%;
+}
